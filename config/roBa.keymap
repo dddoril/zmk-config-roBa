@@ -131,7 +131,7 @@
 &trans  &trans  &trans  &trans  &trans                      &trans    &trans     &trans     &trans    &trans
 &trans  &trans  &trans  &trans  &trans  &trans      &trans  &mkp MB4  &mkp MB1   &mkp MB3   &mkp MB2  &mkp MB5
 &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans    &kp LC(C)  &kp LC(V)  &trans    &trans
-&trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans                                    &trans
+&trans  &trans  &trans  &trans  &trans  &trans      &trans  &to 0                                     &trans
             >;
         };
 
